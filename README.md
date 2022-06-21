@@ -10,7 +10,7 @@
 
 ## Introdução
 
-Este repositório foi um desafio proposto pela [Digital Innovation One](https://dio.me/sign-up?ref=XLLAB2NTF5) para praticar e aprimorar conhecimentos em Git e GitHub. Nele eu irei postar minhas anotações e me desafiar a estudar programação por um período de 100 dias consecutivos com os cursos oferecidos pela plataforma. 
+Este repositório foi um desafio proposto pela [Digital Innovation One](https://dio.me/sign-up?ref=XLLAB2NTF5) para praticar e aprimorar os conhecimentos em Git e GitHub. Nele eu irei postar minhas anotações e me desafiar a estudar programação por um período de 100 dias consecutivos com os cursos oferecidos pela plataforma. 
 
 ***
 
