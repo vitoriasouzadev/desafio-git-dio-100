@@ -28,6 +28,7 @@ A dio é a comunidade mais vibrante de educação em tecnologia gratuita da Amé
 
 :clock130: Início do desafio: 25/06/22
 
+[25/06/22 - Construindo páginas para internet com Bootstrap](https://github.com/vitoriasouzadev/bootstrap-gatolandia)
 
 
 #### Bootcamps :blue_heart:
