@@ -26,7 +26,7 @@ A dio é a comunidade mais vibrante de educação em tecnologia gratuita da Amé
 
 ### Desafio 100 dias com a DIO
 
-:clock130: Início do desafio: 21/06/22
+:clock130: Início do desafio: 25/06/22
 
 
 
@@ -81,8 +81,8 @@ A dio é a comunidade mais vibrante de educação em tecnologia gratuita da Amé
 
 ##### Html e CSS:
 
-- [ ] Introdução a criação de websites com HTML5 e CSS3
-- [ ] Construindo páginas para internet com Bootstrap
+- [x] Introdução a criação de websites com HTML5 e CSS3
+- [x] Construindo páginas para internet com Bootstrap
 - [ ] Conceitos de responsividade e experiência do usuário
 - [ ] Posicionando elementos com Flexbox em CSS
 
